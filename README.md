@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Iudin Sergei!  👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fyudin-s.github.io)](https://yudin-s.github.io)
+[![Website](https://img.shields.io/website?label=yudin-s.github.io&style=for-the-badge&url=https%3A%2F%2Fyudin-s.github.io)](https://yudin-s.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/serge_yudin_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=serge_yudin_)
 
 ## I'm Top Rated Upwork Developer, Manager and Software Architect!
