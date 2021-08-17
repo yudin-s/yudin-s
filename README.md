@@ -6,7 +6,7 @@
 
 ## I'm Top Rated Upwork Developer, Manager and Software Architect!
 
-- 🧑🏼‍🚀 I'm have 10 years experience as full-stack web developer 
+- 🧑🏼‍🚀 I'm have 13 years experience as full-stack web developer 
 - 🔭 I’m currently working on freelance as independent contractor!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
