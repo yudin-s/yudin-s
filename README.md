@@ -6,18 +6,18 @@
 
 ## I'm Top Rated Upwork Developer, Manager and Software Architect!
 
-- 🧑🏼‍🚀 I'm have 13 years experience as full-stack web developer 
+- 🧑🏼‍🚀 I'm have 14 years experience as full-stack web developer 
 - 🔭 I’m currently working on freelance as independent contractor!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums & piano
 
 ### My Upwork Stats 
 
 - 🧙‍♂️100% Job Success Score   
 - 💼 Top Rated Developer  
-- ⏲️ 1000+ Hours Recorded Experience
+- ⏲️ 2600+ Hours Recorded Experience
 - 🤟🏼Long Term Relationship
 
 ### Languages and Tools
