@@ -16,8 +16,8 @@
 ### My Upwork Stats 
 
 - 🧙‍♂️100% Job Success Score   
-- 💼 Top Rated Developer  
-- ⏲️ 2600+ Hours Recorded Experience
+- 💼 Top Rated Plus Developer  
+- ⏲️ 3000+ Hours Recorded Experience
 - 🤟🏼Long Term Relationship
 
 ### Languages and Tools
