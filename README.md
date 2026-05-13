@@ -79,7 +79,7 @@ Frontend implementation for a collaborative whiteboard-style application.
 - 🔁 Supported long-term client relationships and production systems
 - 🛍️ Delivered e-commerce, Magento, marketplace and business automation projects
 - 🧪 Designed project structures with testing, CI, documentation and maintainability in mind
-- 🤖 Currently exploring practical AI engineering, local LLMs and multi-agent workflows
+- 🤖 Building practical AI engineering tools with local LLMs and multi-agent workflows
 
 ---
 
@@ -103,11 +103,12 @@ I am especially useful when a project needs:
 - 💼 Upwork: [Serge Yudin](https://www.upwork.com/o/profiles/users/~011535c13b3445c54c/)
 - 🌐 Portfolio: [yudin-s.github.io](https://yudin-s.github.io)
 - 💻 GitHub: [github.com/yudin-s](https://github.com/yudin-s)
-- 🔗 LinkedIn: Add your LinkedIn link here
-- ✉️ Email: Add your professional email here
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Serge%20Yudin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergeyudin)
 
 ---
 
-## 🔎 Keywords
+## 🔎 Focus Areas
 
-Senior Full-Stack Engineer, React Developer, Vue Developer, Nuxt Developer, TypeScript Developer, Node.js Developer, Python Developer, PHP Developer, Magento Developer, GraphQL, REST API, SaaS, e-commerce, marketplace development, AI agents, LLM automation, Ollama, Docker, GitHub Actions, remote contractor, software architect.
+Senior Full-Stack Engineering, React, Vue/Nuxt, TypeScript, Node.js, Python, PHP/Magento, GraphQL, REST APIs.
+
+SaaS, e-commerce, marketplaces, AI agents, LLM automation, Ollama, Docker, GitHub Actions, remote contract work, software architecture.
