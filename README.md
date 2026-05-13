@@ -2,6 +2,11 @@
 
 ## Senior Full-Stack Engineer | React, Vue/Nuxt, Node.js, Python & AI Agents
 
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/o/profiles/users/~011535c13b3445c54c/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yudin--s.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://yudin-s.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-yudin--s-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yudin-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Serge%20Yudin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergeyudin)
+
 I build production web applications, SaaS dashboards, e-commerce platforms, integrations, automation tools and local AI/LLM systems.
 
 - 🚀 16+ years in web development
@@ -95,15 +100,6 @@ I am especially useful when a project needs:
 - ✅ e-commerce or marketplace experience
 - ✅ AI automation prototypes and internal tools
 - ✅ technical cleanup, refactoring and delivery ownership
-
----
-
-## 📫 Contact
-
-- 💼 Upwork: [Serge Yudin](https://www.upwork.com/o/profiles/users/~011535c13b3445c54c/)
-- 🌐 Portfolio: [yudin-s.github.io](https://yudin-s.github.io)
-- 💻 GitHub: [github.com/yudin-s](https://github.com/yudin-s)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Serge%20Yudin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergeyudin)
 
 ---
 
