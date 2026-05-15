@@ -40,7 +40,23 @@ I build production web applications, SaaS dashboards, e-commerce platforms, inte
 
 ---
 
-## 🚀 Selected Projects
+## 🧪 Product Lab: Side Projects With Production Thinking
+
+Self-directed products and experiments where I explore practical AI workflows, polished UX, static-first architecture, developer tools and full-stack product thinking.
+
+### 🔍 [PullScope](https://github.com/yudin-s/pullscope)
+Client-side AI PR review workbench for public GitHub pull requests, combining deterministic local risk signals with optional AI review through an OpenAI-compatible endpoint.
+
+[Live demo](https://yudin-s.github.io/pullscope/) · **Stack:** TypeScript, GitHub REST API, static frontend, AI review, BYOK, developer tooling
+
+---
+
+### 🚀 [Launchpack](https://github.com/yudin-s/launchpack)
+Static launch assistant that turns messy founder notes, worklogs or product briefs into a Product Hunt launch kit with tagline, maker comment, FAQ, posts, demo script and checklist.
+
+[Live demo](https://yudin-s.github.io/launchpack/) · **Stack:** Static web app, GitHub Pages, OpenAI-compatible LLM, product marketing automation
+
+---
 
 ### 🤖 [Lobster](https://github.com/yudin-s/lobster)
 Local multi-agent system with orchestration, Docker isolation, persistent memory and context recovery.
