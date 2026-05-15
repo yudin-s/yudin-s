@@ -4,7 +4,6 @@
 
 [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/o/profiles/users/~011535c13b3445c54c/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yudin--s.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://yudin-s.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-yudin--s-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yudin-s)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Serge%20Yudin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergeyudin)
 
 I build production web applications, SaaS dashboards, e-commerce platforms, integrations, automation tools and local AI/LLM systems.
