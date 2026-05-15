@@ -44,54 +44,15 @@ I build production web applications, SaaS dashboards, e-commerce platforms, inte
 
 Self-directed products and experiments where I explore practical AI workflows, polished UX, static-first architecture, developer tools and full-stack product thinking.
 
-### 🔍 [PullScope](https://github.com/yudin-s/pullscope)
-Client-side AI PR review workbench for public GitHub pull requests, combining deterministic local risk signals with optional AI review through an OpenAI-compatible endpoint.
-
-[Live demo](https://yudin-s.github.io/pullscope/) · **Stack:** TypeScript, GitHub REST API, static frontend, AI review, BYOK, developer tooling
-
----
-
-### 🚀 [Launchpack](https://github.com/yudin-s/launchpack)
-Static launch assistant that turns messy founder notes, worklogs or product briefs into a Product Hunt launch kit with tagline, maker comment, FAQ, posts, demo script and checklist.
-
-[Live demo](https://yudin-s.github.io/launchpack/) · **Stack:** Static web app, GitHub Pages, OpenAI-compatible LLM, product marketing automation
-
----
-
-### 🤖 [Lobster](https://github.com/yudin-s/lobster)
-Local multi-agent system with orchestration, Docker isolation, persistent memory and context recovery.
-
-**Stack:** Python, Docker, LLM agents, CLI, automation, CI
-
----
-
-### 🎙️ [Uncle Ben](https://github.com/yudin-s/uncle-ben)
-Local voice assistant for macOS with wake-word activation, speech recognition, Ollama-based intent parsing and safe system actions.
-
-**Stack:** Python, faster-whisper, Ollama, macOS automation, safety guards
-
----
-
-### 🧬 [Neuroslop Orchestrator](https://github.com/yudin-s/neuroslop-orchestrator)
-Local AI agent orchestration MVP with frontend, backend, QA, security and designer roles.
-
-**Stack:** Python, Ollama, Docker, agent orchestration, architecture docs
-
----
-
-### 🎨 [Garment Decor Nuxt](https://github.com/yudin-s/garment-decor-nuxt)
-Nuxt.js portfolio project for a design lab company website.
-
-**Stack:** Nuxt, Vue, JavaScript, frontend architecture
-
----
-
-### 🧑‍💻 [Miro Clone Frontend](https://github.com/yudin-s/miro-clone-frontend)
-Frontend implementation for a collaborative whiteboard-style application.
-
-**Stack:** TypeScript, frontend architecture, collaborative UI
-
----
+| Project | What it demonstrates | Stack / Demo |
+| --- | --- | --- |
+| 🔍 [PullScope](https://github.com/yudin-s/pullscope) | Browser-only AI PR review workbench with local risk signals and optional model review | TypeScript, GitHub API, BYOK, static frontend · [Demo](https://yudin-s.github.io/pullscope/) |
+| 🚀 [Launchpack](https://github.com/yudin-s/launchpack) | Product launch assistant that turns messy founder notes into a Product Hunt launch kit | Static web app, GitHub Pages, OpenAI-compatible LLM · [Demo](https://yudin-s.github.io/launchpack/) |
+| 🤖 [Lobster](https://github.com/yudin-s/lobster) | Multi-agent orchestration with Docker isolation, memory and context recovery | Python, Docker, LLM agents, CLI, CI |
+| 🎙️ [Uncle Ben](https://github.com/yudin-s/uncle-ben) | Local macOS voice assistant with wake-word control, intent parsing and safe actions | Python, faster-whisper, Ollama, macOS automation |
+| 🧬 [Neuroslop Orchestrator](https://github.com/yudin-s/neuroslop-orchestrator) | Local AI agent pipeline with frontend, backend, QA, security and design roles | Python, Ollama, Docker, agent orchestration |
+| 🎨 [Garment Decor Nuxt](https://github.com/yudin-s/garment-decor-nuxt) | Portfolio-grade company website frontend | Nuxt, Vue, JavaScript, frontend architecture |
+| 🧑‍💻 [Miro Clone Frontend](https://github.com/yudin-s/miro-clone-frontend) | Collaborative whiteboard-style frontend implementation | TypeScript, frontend architecture, collaborative UI |
 
 ## 📌 Professional Highlights
 
