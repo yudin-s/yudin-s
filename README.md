@@ -1,8 +1,11 @@
 # Serge Yudin
 
-Senior Backend & Frontend Engineer with 16+ years in web development.
+Backend and frontend engineer with 16+ years in web development.
 
-I work mostly on production web systems: marketplaces, CRM products, booking platforms, e-commerce, internal tools, and integrations. My recent stack is Node.js/NestJS, React, Vue/Nuxt, TypeScript, GraphQL/REST, Python, PHP/Magento, Docker, and GitHub Actions.
+Most of my work has been production web systems: marketplaces, CRM products,
+booking platforms, e-commerce, internal tools, and integrations. Recently I
+have been using Node.js/NestJS, React, Vue/Nuxt, TypeScript, GraphQL/REST,
+Python, PHP/Magento, Docker, and GitHub Actions.
 
 I have a long freelance and contract background, including Upwork Top Rated Plus, 100% Job Success Score, and 3000+ billed hours with international clients.
 
@@ -17,18 +20,18 @@ I have a long freelance and contract background, including Upwork Top Rated Plus
 - React/Vue frontends for dashboards, marketplaces, booking flows, and e-commerce.
 - Legacy modernization, especially PHP/Magento/Laravel projects that need to keep running while being improved.
 - Architecture reviews, code reviews, delivery planning, and performance work.
-- Small automation tools and local AI experiments when they solve a real workflow problem.
+- Small automation tools when they solve a real workflow problem.
 
 ## Selected Projects
 
 | Project | Notes |
 | --- | --- |
-| [PullScope](https://github.com/yudin-s/pullscope) | Browser-based PR review tool with local risk signals and optional model output. |
-| [Launchpack](https://github.com/yudin-s/launchpack) | Small launch planning tool for turning rough product notes into launch copy and checklists. |
-| [Lobster](https://github.com/yudin-s/lobster) | Local role-based coding automation experiment with Docker isolation and persistent work context. |
-| [Uncle Ben](https://github.com/yudin-s/uncle-ben) | Local macOS voice assistant with wake-word control, speech recognition, and guarded actions. |
-| [Garment Decor Nuxt](https://github.com/yudin-s/garment-decor-nuxt) | Nuxt/Vue company website frontend based on earlier client-style work. |
-| [Miro Clone Frontend](https://github.com/yudin-s/miro-clone-frontend) | Collaborative whiteboard-style frontend sample in TypeScript. |
+| [PullScope](https://github.com/yudin-s/pullscope) | Static PR review helper for checking changed files and local risk signals. |
+| [Launchpack](https://github.com/yudin-s/launchpack) | GitHub Pages app for preparing launch copy from rough product notes. |
+| [Lobster](https://github.com/yudin-s/lobster) | Local orchestration experiment with Docker execution and markdown work context. |
+| [Uncle Ben](https://github.com/yudin-s/uncle-ben) | macOS voice assistant prototype with wake-word control and guarded actions. |
+| [Garment Decor Nuxt](https://github.com/yudin-s/garment-decor-nuxt) | Nuxt/Vue frontend for a design lab company site. |
+| [Miro Clone Frontend](https://github.com/yudin-s/miro-clone-frontend) | TypeScript frontend sample for a collaborative whiteboard app. |
 
 ## Tech Snapshot
 
